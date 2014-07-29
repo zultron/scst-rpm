@@ -1,2 +1,9 @@
 /scst-*.src.rpm
 /scst-*.tar.gz
+/scst-*.tar.bz2
+
+
+# Build artifacts
+/scst-[0-9]*/
+/.build-*.log
+/x86_64/
